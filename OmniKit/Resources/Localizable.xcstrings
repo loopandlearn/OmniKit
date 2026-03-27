@@ -412,7 +412,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "%1$@ de insulină sau mai puțin rămase în Pod. Schimbați Pod-ul în curând."
+            "value" : "%1$@ de insulină sau mai puțin rămase în pompă. Schimbați pompa în curând."
           }
         },
         "ru" : {
@@ -620,7 +620,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Toate alertele pompei sunt fără semnale sonore, iar notificările de confirmare sunt suprimate. Pompa va emite semnale sonore doar în cazul erorilor grave de pompă și atunci când se redau semnale sonore de test. \n \n ⚠️Atenție - Dacă telefonul dvs. este în afara razei de acțiune a pompei în timp ce această funcție este activată, nu veți primi nicio notificare în aplicație; iar pompa nu va emite semnale sonore pentru a vă alerta."
+            "value" : "Toate alertele pompei sunt fără semnale sonore, iar notificările de confirmare sunt suprimate. Pompa va emite semnale sonore doar în cazul erorilor grave de pompă și atunci când se redau semnale sonore de test. \n \n ⚠️Atenție - Dacă telefonul dumneavoastră este în afara razei de acțiune a pompei în timp ce această funcție este activată, nu veți primi nicio notificare în aplicație; iar pompa nu va emite semnale sonore pentru a vă alerta."
           }
         },
         "ru" : {
@@ -835,7 +835,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Alarmă Auto-off"
+            "value" : "Alarmă cu oprire automată"
           }
         },
         "ru" : {
@@ -2718,7 +2718,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Mementourile de confirmare vor suna pentru comenzile pe care le inițiați, precum bolus, anualarea bolusului, suspendare, reluare, salvarea mementourilor de confirmare etc. Când %1$@ ajustează automat administrarea, nu sunt folosite mementouri de confirmare."
+            "value" : "Mementourile de confirmare vor suna pentru comenzile pe care le inițiați, precum bolus, anularea bolusului, suspendare, reluare, salvarea mementourilor de confirmare etc. Când %1$@ ajustează automat administrarea, nu sunt folosite mementouri de confirmare."
           }
         },
         "ru" : {
@@ -3581,7 +3581,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Rezervor gol"
+            "value" : "Rezervor Gol"
           }
         },
         "ru" : {
@@ -4700,7 +4700,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Finalizați deactivarea"
+            "value" : "Finalizați dezactivarea"
           }
         },
         "ru" : {
@@ -8694,7 +8694,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Modul normal de funcționare, în care semnalele acustice ale pompei sunt utilizate pentru toate alertele podului și atunci când sunt activate notificările de confirmare."
+            "value" : "Modul normal de funcționare, în care semnalele acustice ale pompei sunt utilizate pentru toate alertele pompei și atunci când sunt activate notificările de confirmare."
           }
         },
         "ru" : {
@@ -11405,7 +11405,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Memento pentru expirarea pompei"
+            "value" : "Memento expirare pompă"
           }
         },
         "ru" : {
@@ -13026,7 +13026,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Memento pentru pompa suspendată"
+            "value" : "Memento pompă suspendată"
           }
         },
         "ru" : {
