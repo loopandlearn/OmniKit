@@ -227,7 +227,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "\n\n⚠️ Eroare critică a podului %1$03d (0x %2$02X )"
+            "value" : "\n\n⚠️ Eroare critică a pompei %1$03d (0x %2$02X )"
           }
         },
         "ru" : {
@@ -5060,7 +5060,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "%1$@. Administrarea insulinei a fost oprită. Trebuie să dezactivați și să detașati Pod-ul."
+            "value" : "%1$@. Administrarea insulinei a fost oprită. Trebuie să dezactivați și să detașați pompa."
           }
         },
         "ru" : {
@@ -13577,7 +13577,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Realizat"
+            "value" : "Gata"
           }
         },
         "ru" : {
@@ -14044,7 +14044,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Eroare la dezactivarea beep-urilor de bolus"
+            "value" : "Eroare la dezactivarea semnalelor sonore de bolus"
           }
         },
         "ru" : {
@@ -14200,7 +14200,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Eroare la activarea beep-urilor de bolus"
+            "value" : "Eroare la activarea semnalelor sonore de bolus"
           }
         },
         "ru" : {
@@ -16546,7 +16546,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nu s-a reușit setarei timpului de pe pompă"
+            "value" : "Nu s-a reușit setarea timpului de pe pompă"
           }
         },
         "ru" : {
@@ -16832,7 +16832,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nu s-a reușit actualizarea preferinței în ceea ce privește memento-ul de confirmare."
+            "value" : "Nu s-a reușit actualizarea preferinței în ceea ce privește mementoul de confirmare."
           }
         },
         "ru" : {
@@ -17118,7 +17118,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nu s-a reușit actualizarea memento-ului privind rezervorul scăzut"
+            "value" : "Nu s-a reușit actualizarea mementoului privind rezervorul scăzut"
           }
         },
         "ru" : {
@@ -19906,7 +19906,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Administare insulină"
+            "value" : "Administrare insulină"
           }
         },
         "ru" : {
@@ -20920,7 +20920,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Țineți RileyLink-ul la aproximativ 15 cm de Pod în timpul asocierii."
+            "value" : "Țineți RileyLink-ul la aproximativ 15 cm de pompă în timpul asocierii."
           }
         },
         "ru" : {
@@ -24021,7 +24021,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Setări de notificare"
+            "value" : "Setări notificări"
           }
         },
         "ru" : {
@@ -24318,7 +24318,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Alarme Omnipod"
+            "value" : "Mementouri Omnipod"
           }
         },
         "ru" : {
@@ -24642,7 +24642,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Asociază un Pod nou"
+            "value" : "Asociază o Pompă Nouă"
           }
         },
         "ru" : {
@@ -25983,7 +25983,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pornește redarea semnalelor de test"
+            "value" : "Pornește redarea semnalelor sonore de test"
           }
         },
         "ru" : {
@@ -26282,7 +26282,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Beep-uri de test în desfășurare…"
+            "value" : "Semnale sonore de test în desfășurare…"
           }
         },
         "ru" : {
@@ -27451,7 +27451,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Vechime Pod"
+            "value" : "Vechime Pompă"
           }
         },
         "ru" : {
@@ -28029,7 +28029,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pompa a expirat."
+            "value" : "Pompa a expirat"
           }
         },
         "ru" : {
@@ -29186,7 +29186,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Setări Pod"
+            "value" : "Setări Pompă"
           }
         },
         "ru" : {
@@ -30934,7 +30934,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Timpul de activare citit"
+            "value" : "Citiți timpul de activare"
           }
         },
         "ru" : {
@@ -31077,7 +31077,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Starea pompei citită"
+            "value" : "Citiți starea pompei"
           }
         },
         "ru" : {
@@ -31220,7 +31220,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Registrul de impulsuri citit"
+            "value" : "Citiți registrul de impulsuri"
           }
         },
         "ru" : {
@@ -31363,7 +31363,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Plus registrul de impulsuri citit"
+            "value" : "Citiți registrul plus de impulsuri"
           }
         },
         "ru" : {
@@ -31506,7 +31506,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Alertele declanșate citite"
+            "value" : "Citiți alertele declanșate"
           }
         },
         "ru" : {
@@ -33378,7 +33378,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Înlocuiți Pod-ul acum"
+            "value" : "Înlocuiți pompa acum"
           }
         },
         "ru" : {
@@ -34292,7 +34292,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Reîncearcă dezactivarea Pod-ului"
+            "value" : "Reîncearcă dezactivarea pompei"
           }
         },
         "ru" : {
@@ -35461,7 +35461,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Selectați tipul de insulină pe care o veți utiliza în acest pod."
+            "value" : "Selectați tipul de insulină pe care o veți utiliza în această pompă."
           }
         },
         "ru" : {
@@ -38432,7 +38432,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Schimbă de la pompele Omnipod"
+            "value" : "Treceți de la pompele Omnipod"
           }
         },
         "ru" : {
@@ -39651,7 +39651,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Avertismentele de mai sus nu vor suna pe dispozitivul dvs. atunci când acesta este în modul Silențios sau Nu deranjați. Există și alte alerte critice ale pompei care vor suna pe dispozitivul dvs. chiar și atunci când este setat în modul Silențios sau Nu deranjați. \n\nPompa va utiliza, de asemenea, semnale sonore pentru toate notificările și alertele pompei, cu excepția cazului în care pompa este în mod silențios."
+            "value" : "Avertismentele de mai sus nu vor suna pe dispozitivul dumneavoastră atunci când acesta este în modul Silențios sau Nu deranjați. Există și alte alerte critice ale pompei care vor suna pe dispozitivul dumneavoastră chiar și atunci când este setat în modul Silențios sau Nu deranjați. \n\nPompa va utiliza, de asemenea, semnale sonore pentru toate notificările și alertele de pompă, cu excepția cazului în care pompa este în mod silențios."
           }
         },
         "ru" : {
@@ -40360,7 +40360,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Această pompă nu a fost configurată cu o rată bazală maximă deoarece a fost adăugată înainte ca basala manuală temp să fie o caracteristică. Vă rugăm să setați o nouă rată bazală maximă."
+            "value" : "Această pompă nu a fost configurată cu o rată bazală maximă deoarece a fost adăugată înainte ca rata bazală temporară manuală să fie implementată. Vă rugăm să setați o nouă rată bazală maximă."
           }
         },
         "ru" : {
@@ -41392,7 +41392,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nu s-a putut dezactiva Pod-ul. Continuați și asociați un Pod nou."
+            "value" : "Nu s-a putut dezactiva pompa. Continuați și asociați o pompă nouă."
           }
         },
         "ru" : {
@@ -43687,7 +43687,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Loop nu va ajusta automat administrarea de insulină până când rata bazală temporară nu se termină sau nu este anulată."
+            "value" : "Administrarea de insulină nu va fi ajustată automat până când rata bazală temporară nu se termină sau nu este anulată."
           }
         },
         "ru" : {
