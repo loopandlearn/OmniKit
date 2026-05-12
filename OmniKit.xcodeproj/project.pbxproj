@@ -993,10 +993,9 @@
 				fi,
 				nl,
 				ro,
-				hi,
-				ce,
 				hu,
 				uk,
+				ko,
 			);
 			mainGroup = C124016229C7D87A00B32844;
 			packageReferences = (

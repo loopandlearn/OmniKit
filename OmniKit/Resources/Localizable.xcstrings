@@ -790,12 +790,6 @@
             "value" : "Auto-off alarm"
           }
         },
-        "hi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Auto-off alarm"
-          }
-        },
         "it" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1024,12 +1018,6 @@
           }
         },
         "he" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Below 50 units"
-          }
-        },
-        "hi" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Below 50 units"
@@ -1285,12 +1273,6 @@
             "value" : "Bolus in progress"
           }
         },
-        "hi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Bolus in progress"
-          }
-        },
         "it" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1422,12 +1404,6 @@
             "value" : "Bolus: %1$@U %2$@ %3$@ %4$@"
           }
         },
-        "hi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Bolus: %1$@U %2$@ %3$@ %4$@"
-          }
-        },
         "it" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1542,12 +1518,6 @@
           }
         },
         "he" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Bolusing"
-          }
-        },
-        "hi" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Bolusing"
@@ -1673,12 +1643,6 @@
           }
         },
         "he" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Bolusing with temp basal"
-          }
-        },
-        "hi" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Bolusing with temp basal"
@@ -1822,12 +1786,6 @@
             "value" : "Cannula inserting"
           }
         },
-        "hi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Cannula inserting"
-          }
-        },
         "it" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1954,12 +1912,6 @@
           }
         },
         "he" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Certain"
-          }
-        },
-        "hi" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Certain"
@@ -3167,12 +3119,6 @@
             "value" : "Deactivated"
           }
         },
-        "hi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Deactivated"
-          }
-        },
         "it" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3412,12 +3358,6 @@
           }
         },
         "he" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Empty reservoir"
-          }
-        },
-        "hi" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Empty reservoir"
@@ -3668,12 +3608,6 @@
           }
         },
         "he" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Empty response from pod"
-          }
-        },
-        "hi" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Empty response from pod"
@@ -3942,12 +3876,6 @@
             "value" : "Error event logged, shutting down"
           }
         },
-        "hi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Error event logged, shutting down"
-          }
-        },
         "it" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4081,12 +4009,6 @@
           }
         },
         "he" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Expiration alert"
-          }
-        },
-        "hi" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Expiration alert"
@@ -4918,12 +4840,6 @@
             "value" : "Finish setup "
           }
         },
-        "hi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Finish setup "
-          }
-        },
         "it" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5127,12 +5043,6 @@
           }
         },
         "he" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Initialized"
-          }
-        },
-        "hi" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Initialized"
@@ -5697,12 +5607,6 @@
             "value" : "תקלת פוד %1$03d"
           }
         },
-        "hi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Internal pod fault %1$03d"
-          }
-        },
         "it" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5829,12 +5733,6 @@
           }
         },
         "he" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "InterruptedBolus: %1$@ U (%2$@ U scheduled) %3$@ %4$@ %5$@"
-          }
-        },
-        "hi" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "InterruptedBolus: %1$@ U (%2$@ U scheduled) %3$@ %4$@ %5$@"
@@ -6614,12 +6512,6 @@
             "value" : "Low reservoir advisory alarm"
           }
         },
-        "hi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Low reservoir advisory alarm"
-          }
-        },
         "it" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6978,12 +6870,6 @@
           }
         },
         "he" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Make sure your RileyLink is nearby and powered on"
-          }
-        },
-        "hi" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Make sure your RileyLink is nearby and powered on"
@@ -7430,12 +7316,6 @@
           }
         },
         "he" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "No alerts"
-          }
-        },
-        "hi" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "No alerts"
@@ -8024,12 +7904,6 @@
             "value" : "No pod paired"
           }
         },
-        "hi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "No pod paired"
-          }
-        },
         "it" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8274,12 +8148,6 @@
             "value" : "No response from pod"
           }
         },
-        "hi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "No response from pod"
-          }
-        },
         "it" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8405,12 +8273,6 @@
             "value" : "No RileyLink available"
           }
         },
-        "hi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "No RileyLink available"
-          }
-        },
         "it" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8525,12 +8387,6 @@
           }
         },
         "he" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Normal"
-          }
-        },
-        "hi" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Normal"
@@ -8881,12 +8737,6 @@
           }
         },
         "he" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Occlusion detected"
-          }
-        },
-        "hi" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Occlusion detected"
@@ -9386,12 +9236,6 @@
             "value" : "Omnipod"
           }
         },
-        "hi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Omnipod"
-          }
-        },
         "it" : {
           "stringUnit" : {
             "state" : "translated",
@@ -9608,12 +9452,6 @@
           }
         },
         "he" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Paired"
-          }
-        },
-        "hi" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Paired"
@@ -10030,12 +9868,6 @@
             "value" : "Please bring your pod closer to the RileyLink and try again"
           }
         },
-        "hi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Please bring your pod closer to the RileyLink and try again"
-          }
-        },
         "it" : {
           "stringUnit" : {
             "state" : "translated",
@@ -10275,12 +10107,6 @@
           }
         },
         "he" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Please pair a new pod"
-          }
-        },
-        "hi" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Please pair a new pod"
@@ -10708,12 +10534,6 @@
             "value" : "Pod already paired"
           }
         },
-        "hi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Pod already paired"
-          }
-        },
         "it" : {
           "stringUnit" : {
             "state" : "translated",
@@ -10841,12 +10661,6 @@
           }
         },
         "he" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Pod already primed"
-          }
-        },
-        "hi" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Pod already primed"
@@ -11103,12 +10917,6 @@
             "value" : "Pod expiration advisory alarm"
           }
         },
-        "hi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Pod expiration advisory alarm"
-          }
-        },
         "it" : {
           "stringUnit" : {
             "state" : "translated",
@@ -11236,12 +11044,6 @@
           }
         },
         "he" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Pod Expiration Notice"
-          }
-        },
-        "hi" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Pod Expiration Notice"
@@ -11480,12 +11282,6 @@
           }
         },
         "he" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Pod expired"
-          }
-        },
-        "hi" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Pod expired"
@@ -11854,12 +11650,6 @@
             "value" : "Pod Fault: %1$@"
           }
         },
-        "hi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Pod Fault: %1$@"
-          }
-        },
         "it" : {
           "stringUnit" : {
             "state" : "translated",
@@ -11980,12 +11770,6 @@
           }
         },
         "he" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Pod is not in a state ready for cannula insertion."
-          }
-        },
-        "hi" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Pod is not in a state ready for cannula insertion."
@@ -12123,12 +11907,6 @@
             "value" : "Pod is not in a state ready for priming."
           }
         },
-        "hi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Pod is not in a state ready for priming."
-          }
-        },
         "it" : {
           "stringUnit" : {
             "state" : "translated",
@@ -12255,12 +12033,6 @@
           }
         },
         "he" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Pod is suspended"
-          }
-        },
-        "hi" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Pod is suspended"
@@ -12880,12 +12652,6 @@
             "value" : "Pod setup window expired"
           }
         },
-        "hi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Pod setup window expired"
-          }
-        },
         "it" : {
           "stringUnit" : {
             "state" : "translated",
@@ -13219,12 +12985,6 @@
             "value" : "Priming"
           }
         },
-        "hi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Priming"
-          }
-        },
         "it" : {
           "stringUnit" : {
             "state" : "translated",
@@ -13470,12 +13230,6 @@
             "value" : "Ready for basal programming"
           }
         },
-        "hi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Ready for basal programming"
-          }
-        },
         "it" : {
           "stringUnit" : {
             "state" : "translated",
@@ -13609,12 +13363,6 @@
           }
         },
         "he" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Ready to insert cannula"
-          }
-        },
-        "hi" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ready to insert cannula"
@@ -14167,12 +13915,6 @@
             "value" : "Resume: %1$@ %2$@"
           }
         },
-        "hi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Resume: %1$@ %2$@"
-          }
-        },
         "it" : {
           "stringUnit" : {
             "state" : "translated",
@@ -14406,12 +14148,6 @@
             "value" : "Scheduled Basal"
           }
         },
-        "hi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Scheduled Basal"
-          }
-        },
         "it" : {
           "stringUnit" : {
             "state" : "translated",
@@ -14634,12 +14370,6 @@
           }
         },
         "he" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Shutdown imminent alarm"
-          }
-        },
-        "hi" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Shutdown imminent alarm"
@@ -15466,12 +15196,6 @@
             "value" : "Suspend: %1$@ %2$@"
           }
         },
-        "hi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Suspend: %1$@ %2$@"
-          }
-        },
         "it" : {
           "stringUnit" : {
             "state" : "translated",
@@ -15598,12 +15322,6 @@
           }
         },
         "he" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Suspended"
-          }
-        },
-        "hi" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Suspended"
@@ -15866,12 +15584,6 @@
             "value" : "Tank fill completed"
           }
         },
-        "hi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Tank fill completed"
-          }
-        },
         "it" : {
           "stringUnit" : {
             "state" : "translated",
@@ -16005,12 +15717,6 @@
           }
         },
         "he" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Tank power activated"
-          }
-        },
-        "hi" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Tank power activated"
@@ -16248,12 +15954,6 @@
             "value" : "Temp basal in progress"
           }
         },
-        "hi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Temp basal in progress"
-          }
-        },
         "it" : {
           "stringUnit" : {
             "state" : "translated",
@@ -16374,12 +16074,6 @@
           }
         },
         "he" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Temp basal running"
-          }
-        },
-        "hi" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Temp basal running"
@@ -16511,12 +16205,6 @@
           }
         },
         "he" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "TempBasal: %1$@ U/hour %2$@ %3$@ %4$@ U %5$@"
-          }
-        },
-        "hi" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "TempBasal: %1$@ U/hour %2$@ %3$@ %4$@ U %5$@"
@@ -17112,12 +16800,6 @@
             "value" : "Time to replace your pod! Your pod will expire in %1$@"
           }
         },
-        "hi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Time to replace your pod! Your pod will expire in %1$@"
-          }
-        },
         "it" : {
           "stringUnit" : {
             "state" : "translated",
@@ -17571,12 +17253,6 @@
           }
         },
         "he" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Uncertain"
-          }
-        },
-        "hi" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Uncertain"
@@ -18165,12 +17841,6 @@
             "value" : "Unexpected response from pod"
           }
         },
-        "hi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Unexpected response from pod"
-          }
-        },
         "it" : {
           "stringUnit" : {
             "state" : "translated",
@@ -18300,12 +17970,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "תקלת פוד לא ידועה %1$03d"
-          }
-        },
-        "hi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Unknown pod fault %1$03d"
           }
         },
         "it" : {
@@ -18623,12 +18287,6 @@
             "value" : "Wait for existing bolus to finish, or cancel bolus"
           }
         },
-        "hi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Wait for existing bolus to finish, or cancel bolus"
-          }
-        },
         "it" : {
           "stringUnit" : {
             "state" : "translated",
@@ -18754,12 +18412,6 @@
             "value" : "Wait for existing temp basal to finish, or suspend to cancel"
           }
         },
-        "hi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Wait for existing temp basal to finish, or suspend to cancel"
-          }
-        },
         "it" : {
           "stringUnit" : {
             "state" : "translated",
@@ -18868,12 +18520,6 @@
           }
         },
         "he" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Waiting for pairing reminder"
-          }
-        },
-        "hi" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Waiting for pairing reminder"
