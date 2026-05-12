@@ -370,7 +370,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "\n  Bolus imediat în curs de administrare: %1$@"
+            "value" : "\n  Bolus imediat în desfășurare: %1$@"
           }
         },
         "ru" : {
@@ -513,7 +513,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "\n  Tabelul de stări al insulinei este corupt: %@"
+            "value" : "\n  Tabel corupt stări insulină: %@"
           }
         },
         "ru" : {
@@ -799,7 +799,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "\n  Progresul pompei anterioare: %1$@"
+            "value" : "\n  Progres pompă anterioară: %1$@"
           }
         },
         "ru" : {
@@ -1228,7 +1228,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "\nStadiul livrării: %1$@"
+            "value" : "\nStare administrare: %1$@"
           }
         },
         "ru" : {
@@ -4475,7 +4475,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "%1$@ nu a putut comunica cu pompa de pe corpul tău de la %2$@.\n\nÎn lipsa comunicației cu pompa, aplicația nu poate continua să trimită comenzi pentru administrarea de insulină sau să afișeze informații exacte și recente despre insulina activă sau despre insulina administrată de către pompă.\n\nMonitorizați-vă  glicemia cu atenție în următoarele 6 sau mai multe ore, deoarece este posibil să existe sau nu insulină care lucrează activ în corpul dumneavoastră și pe care %3$@ nu o poate afișa."
+            "value" : "%1$@ nu a putut comunica cu pompa de pe corpul dumneavoastră de la %2$@.\n\nÎn lipsa comunicației cu pompa, aplicația nu poate continua să trimită comenzi pentru administrarea de insulină sau să afișeze informații exacte și recente despre insulina activă sau despre insulina administrată de către pompă.\n\nMonitorizați-vă  glicemia cu atenție în următoarele 6 sau mai multe ore, deoarece este posibil să existe sau nu insulină care lucrează activ în corpul dumneavoastră și pe care %3$@ nu o poate afișa."
           }
         },
         "ru" : {
@@ -4624,7 +4624,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "%1$@ a restabilit comunicarea cu pompa de pe corpul tău.\n\nÎnregistrările legate de administrarea insulinei au fost actualizate și ar trebui să corespundă cu ceea ce a fost administrat de fapt.\n\nPuteți continua acum să utilizați %2$@ în mod normal."
+            "value" : "%1$@ a restabilit comunicarea cu pompa de pe corpul dumneavoastră.\n\nÎnregistrările legate de administrarea insulinei au fost actualizate și ar trebui să corespundă cu ceea ce a fost administrat de fapt.\n\nPuteți continua acum să utilizați %2$@ în mod normal."
           }
         },
         "ru" : {
@@ -5060,7 +5060,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "%1$@. Administrarea insulinei a fost oprită. Trebuie să dezactivați și să detașați pompa."
+            "value" : "%1$@. Administrarea insulinei a fost oprită. Trebuie să dezactivați și să înlăturați pompa."
           }
         },
         "ru" : {
@@ -6360,7 +6360,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Aplicația configurează o notificare pentru pompă pentru a vă notifica înainte de expirarea ei. Setați numărul de ore înainte de expirare pentru notificarea pe care doriți să o configurați atunci când asociați o pompă nouă"
+            "value" : "O notificare este configurată pentru pompă pentru a vă notifica înainte de expirarea ei. Setați numărul de ore înainte de expirare pentru notificarea pe care doriți să o configurați în mod implicit atunci când asociați o pompă nouă."
           }
         },
         "ru" : {
@@ -6801,7 +6801,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Reglarea timpului pompei..."
+            "value" : "Reglare oră pompă..."
           }
         },
         "ru" : {
@@ -7398,7 +7398,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Sunteți sigur/ă că vreți să săriți peste inițierea pompei Omnipod?"
+            "value" : "Sunteți sigur că vreți să săriți peste inițierea pompei Omnipod?"
           }
         },
         "ru" : {
@@ -7547,7 +7547,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Sunteți sigur/ă că nu mai vreți să utilizați pompa Omnipod?"
+            "value" : "Sunteți sigur că nu mai vreți să utilizați pompa Omnipod?"
           }
         },
         "ru" : {
@@ -8785,7 +8785,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Renunță"
+            "value" : "Anulați"
           }
         },
         "ru" : {
@@ -9226,7 +9226,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Schimbați pompa acum. Livrarea insulinei se va opri la 8 ore după expirarea pompei sau când nu mai rămâne deloc insulină."
+            "value" : "Schimbați pompa acum. Administrarea insulinei se va opri la 8 ore după expirarea pompei sau când nu mai rămâne deloc insulină."
           }
         },
         "ru" : {
@@ -9375,7 +9375,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Schimbați pompa acum. Livrarea insulinei se va opri în %1$@ sau când nu mai rămâne insulină."
+            "value" : "Schimbați pompa acum. Administrarea insulinei se va opri în %1$@ sau când nu mai rămâne insulină."
           }
         },
         "ru" : {
@@ -9537,7 +9537,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Schimbare fus orar"
+            "value" : "Schimbați fusul orar"
           }
         },
         "ru" : {
@@ -10587,7 +10587,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Notificări de confirmare"
+            "value" : "Mementouri de confirmare"
           }
         },
         "ru" : {
@@ -10730,7 +10730,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Notificările de confirmare sunt semnale sonore de la pompă care pot fi folosite pentru a confirma comenzile selectate atunci când pompa nu este pe modul silențios."
+            "value" : "Mementourile de confirmare sunt semnale sonore de la pompă care pot fi folosite pentru confirmarea comenzilor selectate atunci când pompa nu este pe modul silențios."
           }
         },
         "ru" : {
@@ -11887,7 +11887,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Dezactivează"
+            "value" : "Dezactivați"
           }
         },
         "ru" : {
@@ -12042,7 +12042,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Dezactivează pompa"
+            "value" : "Dezactivați pompa"
           }
         },
         "ru" : {
@@ -12650,7 +12650,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Șterge Omnipod"
+            "value" : "Ștergeți Omnipod"
           }
         },
         "ru" : {
@@ -12812,7 +12812,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Limite de livrare"
+            "value" : "Limite de administrare"
           }
         },
         "ru" : {
@@ -12854,7 +12854,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "推注限制"
+            "value" : "输注限制"
           }
         }
       }
@@ -13739,7 +13739,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Activare semnale sonore bolus"
+            "value" : "Activați semnale sonore bolus"
           }
         },
         "ru" : {
@@ -14661,7 +14661,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Notificare de expirare"
+            "value" : "Reamintire expirare"
           }
         },
         "ru" : {
@@ -14804,7 +14804,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Notificare de expirare implicită"
+            "value" : "Reamintire expirare implicită"
           }
         },
         "ru" : {
@@ -15402,7 +15402,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nu s-a reușit anularea bazalei manuale"
+            "value" : "Eșec la anularea bazalei manuale"
           }
         },
         "ru" : {
@@ -15545,7 +15545,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nu s-au putut reda semnalele sonore de test."
+            "value" : "Eșec la redarea semnalelor sonore de test."
           }
         },
         "ru" : {
@@ -15688,7 +15688,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nu s-a putut citi timpul de activare."
+            "value" : "Eșec la citirea timpului de activare."
           }
         },
         "ru" : {
@@ -15831,7 +15831,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nu s-a putut citi starea pompei."
+            "value" : "Eșec la citirea stării pompei."
           }
         },
         "ru" : {
@@ -15974,7 +15974,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nu s-a reușit citirea registrului plus de impulsuri."
+            "value" : "Eșec la citirea registrului plus de impulsuri."
           }
         },
         "ru" : {
@@ -16117,7 +16117,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nu s-a reușit citirea registrului de impulsuri."
+            "value" : "Eșec la citirea registrului de impulsuri."
           }
         },
         "ru" : {
@@ -16260,7 +16260,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nu s-au putut citi alertele declanșate."
+            "value" : "Eșec la citirea alertelor declanșate."
           }
         },
         "ru" : {
@@ -16403,7 +16403,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nu s-a reușit reluarea administrării de insulină"
+            "value" : "Eșec la reluarea administrării de insulină"
           }
         },
         "ru" : {
@@ -16546,7 +16546,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nu s-a reușit setarea timpului de pe pompă"
+            "value" : "Eșec la setarea timpului de pompă"
           }
         },
         "ru" : {
@@ -16689,7 +16689,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nu s-a reușit suspendarea administrării de insulină"
+            "value" : "Eșec la suspendarea administrării de insulină"
           }
         },
         "ru" : {
@@ -16832,7 +16832,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nu s-a reușit actualizarea preferinței în ceea ce privește mementoul de confirmare."
+            "value" : "Eșec la actualizarea preferinței mementoului de confirmare."
           }
         },
         "ru" : {
@@ -16975,7 +16975,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nu s-a reușit actualizarea memento-ului de expirare"
+            "value" : "Eșec la actualizarea mementoului de expirare"
           }
         },
         "ru" : {
@@ -17118,7 +17118,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nu s-a reușit actualizarea mementoului privind rezervorul scăzut"
+            "value" : "Eșec la actualizarea mementoului de rezervor scăzut"
           }
         },
         "ru" : {
@@ -17261,7 +17261,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nu s-a reușit actualizarea preferinței în ceea ce privește modul de pompă silențios."
+            "value" : "Eșec la actualizarea preferinței de pompă silențioasă."
           }
         },
         "ru" : {
@@ -17859,7 +17859,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Finalizare setare pompă"
+            "value" : "Finalizați setarea pompei"
           }
         },
         "ru" : {
@@ -19041,7 +19041,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Introdu canula"
+            "value" : "Introduceți canula"
           }
         },
         "ru" : {
@@ -19613,7 +19613,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Administrarea insulinei suspendată"
+            "value" : "Insulină \nSuspendată"
           }
         },
         "ru" : {
@@ -19769,7 +19769,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Insulină livrată"
+            "value" : "Insulină administrată"
           }
         },
         "ru" : {
@@ -20920,7 +20920,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Țineți RileyLink-ul la aproximativ 15 cm de pompă în timpul asocierii."
+            "value" : "Țineți RileyLink la aproximativ 15 cm de pompă în timpul asocierii."
           }
         },
         "ru" : {
@@ -21523,7 +21523,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Numărul lotului"
+            "value" : "Număr lot"
           }
         },
         "ru" : {
@@ -21821,7 +21821,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Atenționare pentru rezervor scăzut"
+            "value" : "Atenționare rezervor scăzut"
           }
         },
         "ru" : {
@@ -22405,7 +22405,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Lipsă configurare"
+            "value" : "Configurație lipsă"
           }
         },
         "ru" : {
@@ -22983,7 +22983,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nicio\nAdministrare"
+            "value" : "Fără\nAdministrare"
           }
         },
         "ru" : {
@@ -23281,7 +23281,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nicio pompă"
+            "value" : "Fără pompă"
           }
         },
         "ru" : {
@@ -23430,7 +23430,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nicio aducere-aminte"
+            "value" : "Fără memento"
           }
         },
         "ru" : {
@@ -24480,7 +24480,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Asociază"
+            "value" : "Asociați"
           }
         },
         "ru" : {
@@ -24642,7 +24642,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Asociază o Pompă Nouă"
+            "value" : "Asociați o pompă nouă"
           }
         },
         "ru" : {
@@ -24791,7 +24791,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Asociază pompa"
+            "value" : "Asociați pompa"
           }
         },
         "ru" : {
@@ -24940,7 +24940,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Asociază pompa"
+            "value" : "Asociați pompa"
           }
         },
         "ru" : {
@@ -25983,7 +25983,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pornește redarea semnalelor sonore de test"
+            "value" : "Redați semnale sonore de test"
           }
         },
         "ru" : {
@@ -26126,7 +26126,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Comanda de semnale sonore de testare a fost trimisă cu succes.\n\nDacă nu ați auzit niciun semnal sonor de la pompă, difuzorul piezo din pompă poate fi stricat sau dezactivat."
+            "value" : "Comanda de semnale sonore de test a fost trimisă cu succes.\n\nDacă nu ați auzit niciun semnal sonor de la pompă, difuzorul piezo din pompă poate fi stricat sau dezactivat."
           }
         },
         "ru" : {
@@ -26282,7 +26282,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Semnale sonore de test în desfășurare…"
+            "value" : "Redați semnale sonore de test…"
           }
         },
         "ru" : {
@@ -26425,7 +26425,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Redarea semnalelor sonore de testare..."
+            "value" : "Redare semnale sonore de test..."
           }
         },
         "ru" : {
@@ -26568,7 +26568,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Vă rugăm să verificați că pompa este fixată corespunzător pe corp. \n\nCanula se poate introduce o singură dată pentru fiecare pompă. Atingeți „Confirmați” după fixare."
+            "value" : "Vă rugăm să confirmați că pompa este fixată corespunzător pe corp. \n\nCanula se poate introduce o singură dată cu fiecare pompă. Atingeți „Confirmați” după fixare."
           }
         },
         "ru" : {
@@ -26854,7 +26854,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Vă rugăm să dezactivați pompa. Când dezactivarea este completă, o puteți elimina și asociați o nouă pompă."
+            "value" : "Vă rugăm să dezactivați pompa. Când dezactivarea este completă, o puteți elimina și asocia o nouă pompă."
           }
         },
         "ru" : {
@@ -27594,7 +27594,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pompa a fost dezactivată cu succes."
+            "value" : "Pompă dezactivată cu succes. Continuați."
           }
         },
         "ru" : {
@@ -27880,7 +27880,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Diagnosticare pompă"
+            "value" : "Diagnostic pompă"
           }
         },
         "ru" : {
@@ -28744,7 +28744,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Detalii despre eroarea pompei"
+            "value" : "Detalii eroare pompă"
           }
         },
         "ru" : {
@@ -29030,7 +29030,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pompa a fost asociată cu succes. Continuați."
+            "value" : "Pompă asociată cu succes. Continuați."
           }
         },
         "ru" : {
@@ -29329,7 +29329,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Configurare Pompă"
+            "value" : "Configurare pompă"
           }
         },
         "ru" : {
@@ -29758,7 +29758,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Detalii despre pompa anterioară"
+            "value" : "Detalii pompă anterioară"
           }
         },
         "ru" : {
@@ -29914,7 +29914,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pregătit."
+            "value" : "Amorsat"
           }
         },
         "ru" : {
@@ -30057,7 +30057,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pregătire în curs. Vă rugăm să așteptați."
+            "value" : "Se amorsează. Vă rugăm să așteptați."
           }
         },
         "ru" : {
@@ -30206,7 +30206,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pregătire în curs..."
+            "value" : "Se amorsează..."
           }
         },
         "ru" : {
@@ -30356,7 +30356,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pregătire în curs..."
+            "value" : "Se amorsează..."
           }
         },
         "ru" : {
@@ -30499,7 +30499,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Detalii despre managerul pompei"
+            "value" : "Detalii manager pompă"
           }
         },
         "ru" : {
@@ -30648,7 +30648,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Timpul pompei"
+            "value" : "Oră pompă"
           }
         },
         "ru" : {
@@ -32930,7 +32930,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Elimină pompa"
+            "value" : "Eliminați pompa"
           }
         },
         "ru" : {
@@ -33975,7 +33975,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Se preiau detaliile managerului de pompe..."
+            "value" : "Preluare detalii manager de pompe..."
           }
         },
         "ru" : {
@@ -34130,7 +34130,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Reîncearcă"
+            "value" : "Reîncercați"
           }
         },
         "ru" : {
@@ -34292,7 +34292,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Reîncearcă dezactivarea pompei"
+            "value" : "Reîncercați dezactivarea pompei"
           }
         },
         "ru" : {
@@ -34441,7 +34441,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "RileyLink-ul permite comunicarea cu pompa prin Bluetooth"
+            "value" : "RileyLink permite comunicarea cu pompa prin Bluetooth"
           }
         },
         "ru" : {
@@ -34596,7 +34596,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Configurarea RileyLink-ului"
+            "value" : "Configurarea RileyLink"
           }
         },
         "ru" : {
@@ -34733,7 +34733,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Salvează"
+            "value" : "Salvați"
           }
         },
         "ru" : {
@@ -35610,7 +35610,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Număr de ordine"
+            "value" : "Număr secvență"
           }
         },
         "ru" : {
@@ -35902,7 +35902,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Setați bazala temporară"
+            "value" : "Setați rata bazală temporară"
           }
         },
         "ru" : {
@@ -37667,7 +37667,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Suspendă administrarea"
+            "value" : "Suspendați administrarea"
           }
         },
         "ru" : {
@@ -38886,7 +38886,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Sincronizează cu pompa"
+            "value" : "Sincronizați cu pompa"
           }
         },
         "ru" : {
@@ -39184,7 +39184,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Rata temporară de bazală a eșuat"
+            "value" : "Eșec bazală temporară"
           }
         },
         "ru" : {
@@ -41392,7 +41392,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nu s-a putut dezactiva pompa. Continuați și asociați o pompă nouă."
+            "value" : "Eșec la dezactivarea pompei. Vă rog continuați și asociați o pompă nouă."
           }
         },
         "ru" : {
@@ -41535,7 +41535,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Conexiune pierdută cu pompa"
+            "value" : "Eșec conexiune pompă"
           }
         },
         "ru" : {
@@ -41678,7 +41678,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Conexiune pierdută cu pompa"
+            "value" : "Eșec conexiune pompă"
           }
         },
         "ru" : {
@@ -41821,7 +41821,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nu se poate seta o rată temporară de insulină bazală: %1$@"
+            "value" : "Nu se poate seta o rată bazală temporară: %1$@"
           }
         },
         "ru" : {
@@ -41964,7 +41964,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nu se poate seta o rată temporară de insulină bazală: %1$@ \n\n %2$@"
+            "value" : "Nu se poate seta o rată bazală temporară: %1$@ \n\n %2$@"
           }
         },
         "ru" : {
@@ -42107,7 +42107,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Activare neterminată"
+            "value" : "Activare nefinalizată"
           }
         },
         "ru" : {
@@ -42250,7 +42250,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Dezactivare neterminată"
+            "value" : "Dezactivare nefinalizată"
           }
         },
         "ru" : {
@@ -43109,7 +43109,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Aplicația vă notifică înainte de expirarea pompei.\n\nDerulați pentru a seta numărul de ore dorite pentru notificare."
+            "value" : "Veți fi notificat înainte de expirarea pompei.\n\nDerulați pentru a seta numărul de ore pe care le-ați dori pentru notificare."
           }
         },
         "ru" : {
@@ -43252,7 +43252,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Veți fi notificat(ă) când cantitatea de insulină din pompă atinge un nivel selectat. \n \nDerulați pentru a seta numărul de unități (1 până la 50) la care doriți să fiți notificat(ă)."
+            "value" : "Veți fi notificat când cantitatea de insulină din pompă atinge un nivel selectat. \n \nDerulați pentru a seta numărul de unități (1 până la 50) la care doriți să fiți notificat."
           }
         },
         "ru" : {
@@ -43538,7 +43538,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Veți începe acum procesul de configurare a notificărilor, umplerea pompei cu insulină, asocierea cu dispozitivul dumneavoastră și amplasarea acesteia pe corp."
+            "value" : "Veți începe acum procesul de configurare a notificărilor dumneavoastră, umplerea pompei dumneavoastră cu insulină, asocierea cu dispozitivul dumneavoastră și amplasarea acesteia pe corpul dumneavoastră."
           }
         },
         "ru" : {
@@ -43687,7 +43687,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Administrarea de insulină nu va fi ajustată automat până când rata bazală temporară nu se termină sau nu este anulată."
+            "value" : "Administrarea dumneavoastră de insulină nu va fi ajustată automat până când rata bazală temporară nu se termină sau nu este anulată."
           }
         },
         "ru" : {
@@ -43830,7 +43830,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pompa este gata de utilizare.\n\nNotificarea implicită a fost programată pentru această pompă la configurare. Puteți schimba notificarea la o oră mai convenabilă în Configurări notificări pompă."
+            "value" : "Pompa dumneavoastră este gata de utilizare.\n\nNotificarea implicită a fost programată pentru această pompă la configurare. Puteți schimba notificarea la o oră mai convenabilă în setări notificări pompă."
           }
         },
         "ru" : {
